@@ -1,5 +1,5 @@
 {
-  "name": "erela.js-spotify",
+  "name": "@smolespi/erela.js-spotify",
   "version": "1.2.1",
   "description": "Spotify plugin for Erela.JS",
   "main": "dist/index.js",
@@ -24,5 +24,13 @@
   "dependencies": {
     "axios": "^0.21.1",
     "erela.js": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smolespi/erela.js-spotify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smolespi/erela.js-spotify/issues"
+  },
+  "homepage": "https://github.com/smolespi/erela.js-spotify#readme"
 }
